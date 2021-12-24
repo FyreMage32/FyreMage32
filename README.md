@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FyreMage32
-- 👀 I’m interested in Game Hacking
+- 👀 I’m interested in Game Hacking & Windows Internals
 - 🌱 I’m currently learning C++ & Reverse Engineering
 
 <!---
